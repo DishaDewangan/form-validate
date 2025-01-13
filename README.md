@@ -1,4 +1,4 @@
-# form-validate
+# formSure
 This project is a simple registration form built using **JavaScript**. It collects basic user information like username, email, password, and confirmation of the password. Real-time validation ensures all fields are correctly filled before submission.
 
 ## Key Features
